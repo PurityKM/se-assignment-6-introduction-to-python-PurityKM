@@ -7,7 +7,7 @@
 print("Hello, World!")
 
 # Integers (int): Whole numbers, positive or negative, without decimals.
-age = 23
+myAge = 23
 
 # Floating-Point Numbers (float): Numbers with a decimal point. 
 r = 3.14
@@ -30,7 +30,7 @@ prices = (4, 6, 9, 3)
 # Booleans (bool): Logical values representing True or False.
 isTasty = True
 
-# Conditional statements in Python are used to execute a block of code based on whether a condition is true or false. 
+# Conditional statements in Python are used to execute a block of code based on whether a condition is true or false.
 
 # if Statement: Executes a block of code if the condition is true.
 # elif Statement: (short for "else if") Checks another condition if the previous if or elif condition was false.
